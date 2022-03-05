@@ -4,7 +4,9 @@ March 5, 2022
 
 Assignment: https://courses.bootcampspot.com/courses/1196/assignments/23267?module_item_id=456708
 
-Finished URL for website: 
+Published application URL: https://ajl18.github.io/Code-Refactor/
+
+GitHub repository URL: https://github.com/ajl18/Code-Refactor.git
 
 
 Steps completed:
